@@ -12,4 +12,4 @@
 * geojson
 
 ## 참고 파일
-* [시연 동영상 링크](https://github.com/HyunSeongKil/cesium-geojson/blob/master/rain_bylegend_color_height_20210428.mp4?raw=true)
+* [시연 동영상 링크](https://github.com/HyunSeongKil/my-cesium-geojson/raw/main/rain_bylegend_color_height_20210428.mp4)
